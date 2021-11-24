@@ -3,4 +3,14 @@
 
     <string name="home_menu_button">Home</string>
     <string name="classes_menu_button">Classes</string>
+
+    <string name="today_classes">%1d classes today</string>
+    <string name="open_in_skype">Open in Skype</string>
+    <string name="are_you_ready_for_exams">Are you ready for exams?</string>
+    <string name="time_default">0</string>
+    <string name="days">Days</string>
+    <string name="delimeter_timer">:</string>
+    <string name="hours">Hours</string>
+    <string name="classes">Classes</string>
+    <string name="homework">Homework</string>
 </resources>
